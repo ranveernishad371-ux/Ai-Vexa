@@ -1,0 +1,7 @@
+{
+  "name": "AI Vexa",
+  "description": "A modern AI chatbot platform with file uploads, voice input, image analysis, and persistent chat history.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
